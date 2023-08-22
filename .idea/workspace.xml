@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="009f2e90-bd7d-4154-bc55-eb6e1cce7c31" name="Changes" comment="..">
+    <list default="true" id="009f2e90-bd7d-4154-bc55-eb6e1cce7c31" name="Changes" comment="230812">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,12 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692607988062</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="230812">
+      <option name="closed" value="true" />
+      <created>1692684019009</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692684019009</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="230812" />
+    <option name="LAST_COMMIT_MESSAGE" value="230812" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
