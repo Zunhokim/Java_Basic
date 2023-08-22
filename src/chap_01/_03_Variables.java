@@ -15,3 +15,4 @@ public class _03_Variables {
         System.out.println(name + "의 평균 : " + score + "점, 학점 : " + grade);
     }
 }
+
